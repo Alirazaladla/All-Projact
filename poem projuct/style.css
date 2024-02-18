@@ -1,0 +1,53 @@
+.one {
+    background-image: url(images/images3.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding-top: 229px;
+    padding-bottom: 180px;
+}
+.two{
+    text-align: center;
+}
+.two h1 {
+    font-size: 45px;
+    font-family: cursive;
+}
+.two span {
+    font-size: 39px;
+}
+.two h2 {
+    margin-top: -20px;
+    font-size: 28px;
+    font-family: cursive;
+}
+.two p {
+    font-size: 35px;
+    margin-top: -16px;
+    font-family: cursive;
+}
+.two {
+    background-color: rgba(111,222,333, 0.4);
+    height: 713px;
+    padding-top: 11px;
+    margin-left: 333px;
+    margin-right: 248px;
+    border-radius: 408px;
+    border: 1px solid;
+}
+.two:hover {
+    background-color: rgba(222,444,00000, 0.4);
+}
+.one h3 {
+    float: right;
+    margin-right: 152px;
+    margin-top: -143px;
+    font-size: 38px;
+}
+.one h3 a {
+    text-decoration: none;
+    color: blue;
+}
+.one h3 a:hover {
+    color: brown;
+}
